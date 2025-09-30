@@ -1,5 +1,5 @@
 
-# Slip 1: Sample Solutions and Explanations
+# Slip 1:  
 
 
 ***
@@ -183,11 +183,6 @@ int main() {
 - **Method**: A function defined inside a class.
 
 
-## (Optional) Diagram Description for Q3
-
-- Draw a class box labeled `Book` with attributes: title, author, year, ISBN.
-- Show methods: accept(), display(), getISBN().
-- Indicate a vector of `Book` objects in `main` for storing multiple books.
 
 ---
 
@@ -197,7 +192,7 @@ Thank you! If you need this format for more slips, want batch exports, or have a
 
 ---
 
-# Slip 2: Sample Solutions and Explanations
+# Slip 2:  
 
 
 ***
@@ -373,11 +368,7 @@ int main() {
 
 ***
 
-## (Optional) Diagram Description for Q3
 
-- Draw a class box labeled `DataManager<T>` with a vector of type `T`.
-- Show a class box for `Student` with attributes: name, roll, grade.
-- Indicate that `DataManager<Student>` manages a collection of `Student` objects.
 
 ***
 
@@ -385,7 +376,7 @@ Say "next" to continue with Slip 3 in this format!
 
 ---
 
-# Slip 3: Sample Solutions and Explanations
+# Slip 3:  
 
 
 ***
@@ -561,7 +552,7 @@ int main() {
 
 ---
 
-# Slip 4: Sample Solutions and Explanations
+# Slip 4:  
 
 
 ***
@@ -748,7 +739,7 @@ int main() {
 
 ---
 
-# Slip 5: Sample Solutions and Explanations
+# Slip 5:  
 
 
 ***
@@ -926,7 +917,7 @@ int main() {
 
 ---
 
-# Slip 6: Sample Solutions and Explanations
+# Slip 6:  
 
 
 ***
@@ -1077,7 +1068,7 @@ int main() {
 
 ---
 
-# Slip 7: Sample Solutions and Explanations
+# Slip 7:  
 
 
 ***
@@ -1249,7 +1240,7 @@ int main() {
 
 ---
 
-# Slip 8: Sample Solutions and Explanations
+# Slip 8:  
 
 
 ***
@@ -1441,7 +1432,7 @@ int main() {
 
 ---
 
-# Slip 9: Sample Solutions and Explanations
+# Slip 9:  
 
 
 ***
@@ -1590,7 +1581,7 @@ int main() {
 
 ---
 
-# Slip 10: Sample Solutions and Explanations
+# Slip 10:  
 
 
 ***
@@ -1781,7 +1772,7 @@ int main() {
 
 ---
 
-# Slip 11: Sample Solutions and Explanations
+# Slip 11:  
 
 
 ***
@@ -1938,7 +1929,7 @@ int main() {
 
 ---
 
-# Slip 12: Sample Solutions and Explanations
+# Slip 12:  
 
 
 ***
@@ -2118,15 +2109,11 @@ int main() {
 - **Method**: A function defined inside a class.
 
 
-## (Optional) Diagram Description for Q3
 
-- Draw a class box labeled `Book` with attributes: title, author, year, ISBN.
-- Show methods: accept(), display(), getISBN().
-- Indicate a vector of `Book` objects in `main` for storing multiple books.
 
 ---
 
-# Slip 13: Sample Solutions and Explanations
+# Slip 13:  
 
 
 ***
@@ -2300,11 +2287,7 @@ int main() {
 
 ***
 
-## (Optional) Diagram Description for Q3
 
-- Draw a class box labeled `DataManager<T>` with a vector of type `T`.
-- Show a class box for `Student` with attributes: name, roll, grade.
-- Indicate that `DataManager<Student>` manages a collection of `Student` objects.
 
 ***
 
@@ -2312,7 +2295,7 @@ Say "next" to continue with Slip 14 in this format!
 
 ---
 
-# Slip 14: Sample Solutions and Explanations
+# Slip 14:  
 
 
 ***
@@ -2488,7 +2471,7 @@ int main() {
 
 ---
 
-# Slip 15: Sample Solutions and Explanations
+# Slip 15:  
 
 
 ***
@@ -2669,7 +2652,7 @@ int main() {
 
 ---
 
-# Slip 16: Sample Solutions and Explanations
+# Slip 16:  
 
 
 ***
@@ -2853,7 +2836,7 @@ int main() {
 
 ---
 
-# Slip 17: Sample Solutions and Explanations
+# Slip 17:  
 
 
 ***
@@ -3027,7 +3010,7 @@ int main() {
 
 ---
 
-# Slip 18: Sample Solutions and Explanations
+# Slip 18:  
 
 
 ***
@@ -3204,7 +3187,7 @@ int main() {
 
 ---
 
-# Slip 19: Sample Solutions and Explanations
+# Slip 19:  
 
 
 ***
@@ -3357,7 +3340,7 @@ int main() {
 
 ---
 
-# Slip 20: Sample Solutions and Explanations
+# Slip 20:  
 
 
 ***
@@ -3528,16 +3511,11 @@ int main() {
 - **Method Overriding**: Redefining a base class method in a derived class.
 
 
-## (Optional) Diagram Description for Q3
 
-- Draw a class box labeled `Person` with attributes: name, age.
-- Show `Teacher` inheriting from `Person` and adding subject.
-- Show `Admin` inheriting from `Teacher` and adding duty.
-- Indicate the inheritance chain: `Person` → `Teacher` → `Admin`.
 
 ---
 
-# Slip 21: Sample Solutions and Explanations
+# Slip 21:  
 
 
 ***
@@ -3718,15 +3696,9 @@ int main() {
 
 ***
 
-## (Optional) Diagram Description for Q3
-
-- Draw a class box labeled `DataManager<T>` with a vector of type `T`.
-- Show a class box for `Student` with attributes: name, roll, grade.
-- Indicate that `DataManager<Student>` manages a collection of `Student` objects.
-
 ---
 
-# Slip 22: Sample Solutions and Explanations
+# Slip 22:  
 
 
 ***
@@ -3894,15 +3866,9 @@ int main() {
 - **Method Overriding**: Redefining a base class method in a derived class.
 
 
-## (Optional) Diagram Description for Q3
-
-- Draw a class box labeled `Vehicle` with attributes: speed, passengers, fuel.
-- Show `Car` inheriting from `Vehicle` and adding model, doors, maker.
-- Indicate the inheritance chain: `Vehicle` → `Car`.
-
 ---
 
-# Slip 23: Sample Solutions and Explanations
+# Slip 23:  
 
 
 ***
@@ -4093,7 +4059,7 @@ int main() {
 
 ---
 
-# Slip 24: Sample Solutions and Explanations
+# Slip 24: 
 
 
 ***
@@ -4276,8 +4242,7 @@ int main() {
 
 ---
 
-# Slip 25: Sample Solutions and Explanations
-
+# Slip 25: 
 
 ***
 
