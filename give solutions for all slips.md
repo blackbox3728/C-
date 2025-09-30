@@ -186,9 +186,6 @@ int main() {
 
 ---
 
-# good one
-
-Thank you! If you need this format for more slips, want batch exports, or have any special requests (like diagrams, adaptation notes, or syntax glossaries), just let me know. I’m here to help you build clear, exam-ready solutions for every practical question.
 
 ---
 
